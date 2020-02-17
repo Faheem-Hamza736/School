@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "801557425011",
+    "firebase_url": "https://inspirational-quotes-5c41c.firebaseio.com",
+    "project_id": "inspirational-quotes-5c41c",
+    "storage_bucket": "inspirational-quotes-5c41c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801557425011:android:6af36e2558035d8f0a7306",
+        "android_client_info": {
+          "package_name": "com.example.fahee.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801557425011-bbb65ec1gdoc8b31m6v76pej5jpfflqu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fahee.myapplication",
+            "certificate_hash": "d300586cc4f0144dd12bae80620e9c0c3ca7ac88"
+          }
+        },
+        {
+          "client_id": "801557425011-o41j2bgk1hthve7vr6k944m8vsnhgfrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRchGzayVDZbvZgr0puYivK9rHInbHtCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801557425011-o41j2bgk1hthve7vr6k944m8vsnhgfrh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
